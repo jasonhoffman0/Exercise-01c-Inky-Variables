@@ -1,9 +1,9 @@
-# Exercise-01c-Inky-Variables
+# FA24Exercise-01b-Inky-Introduction
 
 My name is:
 
-[Your Name]
+Jason Hoffman
 
 My github username is:
 
-[Your Username]
+jasonhoffman0
